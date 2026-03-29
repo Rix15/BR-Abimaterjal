@@ -1,6 +1,6 @@
 ﻿# Issue hierarhia — TalTech-ITB/BC-Dev
 
-> Genereeritud automaatselt `Pull_issues.ps1` poolt · 2026-03-29 23:04
+> Genereeritud automaatselt `Pull_issues.ps1` poolt · 2026-03-30 00:06
 > Muuda GitHubis, käivita sync uuesti — ära muuda seda faili käsitsi.
 
 | Tüüp | Kokku | Avatud | Suletud |
