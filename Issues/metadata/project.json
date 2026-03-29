@@ -1,0 +1,83 @@
+﻿{
+  "title": "BC-Dev",
+  "number": 2,
+  "url": "https://github.com/orgs/TalTech-ITB/projects/2",
+  "fields": {
+    "nodes": [
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94M",
+        "name": "Title",
+        "dataType": "TITLE"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94Q",
+        "name": "Assignees",
+        "dataType": "ASSIGNEES"
+      },
+      {
+        "id": "PVTSSF_lADOD2AcDc4BOezazg9K94U",
+        "name": "Status",
+        "options": [
+          {
+            "id": "f75ad846",
+            "name": "Todo",
+            "color": "GREEN",
+            "description": "This item hasn't been started"
+          },
+          {
+            "id": "47fc9ee4",
+            "name": "In Progress",
+            "color": "YELLOW",
+            "description": "This is actively being worked on"
+          },
+          {
+            "id": "98236657",
+            "name": "Done",
+            "color": "PURPLE",
+            "description": "This has been completed"
+          }
+        ]
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94Y",
+        "name": "Labels",
+        "dataType": "LABELS"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94c",
+        "name": "Linked pull requests",
+        "dataType": "LINKED_PULL_REQUESTS"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94g",
+        "name": "Milestone",
+        "dataType": "MILESTONE"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94k",
+        "name": "Repository",
+        "dataType": "REPOSITORY"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94s",
+        "name": "Reviewers",
+        "dataType": "REVIEWERS"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K94w",
+        "name": "Parent issue",
+        "dataType": "PARENT_ISSUE"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9K940",
+        "name": "Sub-issues progress",
+        "dataType": "SUB_ISSUES_PROGRESS"
+      },
+      {
+        "id": "PVTF_lADOD2AcDc4BOezazg9Mx0c",
+        "name": "Due Date",
+        "dataType": "DATE"
+      }
+    ]
+  }
+}

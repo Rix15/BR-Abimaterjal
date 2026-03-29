@@ -1,0 +1,546 @@
+﻿{
+  "1": {
+    "number": 1,
+    "title": "Master Data",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\1.md",
+    "state": "closed"
+  },
+  "2": {
+    "number": 2,
+    "title": "Table - Rental Setup",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\2.md",
+    "state": "closed"
+  },
+  "3": {
+    "number": 3,
+    "title": "Page - Rental Setup",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\3.md",
+    "state": "closed"
+  },
+  "4": {
+    "number": 4,
+    "title": "Table - RA Location",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\4.md",
+    "state": "closed"
+  },
+  "5": {
+    "number": 5,
+    "title": "Page - RA Locations",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\5.md",
+    "state": "closed"
+  },
+  "6": {
+    "number": 6,
+    "title": "Table - RA Class",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\6.md",
+    "state": "closed"
+  },
+  "7": {
+    "number": 7,
+    "title": "Page - RA Classes",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\7.md",
+    "state": "closed"
+  },
+  "8": {
+    "number": 8,
+    "title": "Table - Rental Asset",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\8.md",
+    "state": "closed"
+  },
+  "9": {
+    "number": 9,
+    "title": "Table - Rental Asset Unit",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\9.md",
+    "state": "closed"
+  },
+  "10": {
+    "number": 10,
+    "title": "Page - Rental Asset List",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\10.md",
+    "state": "closed"
+  },
+  "11": {
+    "number": 11,
+    "title": "Page - Rental Asset Unit List",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\11.md",
+    "state": "closed"
+  },
+  "12": {
+    "number": 12,
+    "title": "Page - Rental Asset Card",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\12.md",
+    "state": "closed"
+  },
+  "13": {
+    "number": 13,
+    "title": "Page - Rental Asset Units Subpage",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\13.md",
+    "state": "closed"
+  },
+  "14": {
+    "number": 14,
+    "title": "Rental Asset Attachment",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\14.md",
+    "state": "closed"
+  },
+  "15": {
+    "number": 15,
+    "title": "Documents",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\15.md",
+    "state": "closed"
+  },
+  "16": {
+    "number": 16,
+    "title": "Enum - Rental Order Status",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\16.md",
+    "state": "closed"
+  },
+  "17": {
+    "number": 17,
+    "title": "Table - Rental Document",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\17.md",
+    "state": "closed"
+  },
+  "18": {
+    "number": 18,
+    "title": "Page - Rental Orders",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\18.md",
+    "state": "closed"
+  },
+  "19": {
+    "number": 19,
+    "title": "Page - Rental Order",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\19.md",
+    "state": "closed"
+  },
+  "20": {
+    "number": 20,
+    "title": "Report - Rental Order",
+    "type": "Task",
+    "folder": "tasks",
+    "path": "Bodies\\tasks\\20.md",
+    "state": "closed"
+  },
+  "22": {
+    "number": 22,
+    "title": "BikeRental",
+    "type": "Epic",
+    "folder": "epics",
+    "path": "Bodies\\epics\\22.md",
+    "state": "open"
+  },
+  "23": {
+    "number": 23,
+    "title": "Journal and Ledger",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\23.md",
+    "state": "closed"
+  },
+  "24": {
+    "number": 24,
+    "title": "Enum - Rental Ledger Entry Type",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\24.md",
+    "state": "closed"
+  },
+  "25": {
+    "number": 25,
+    "title": "Table - Rental Journal Line",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\25.md",
+    "state": "closed"
+  },
+  "26": {
+    "number": 26,
+    "title": "Page - Rental Journal",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\26.md",
+    "state": "closed"
+  },
+  "27": {
+    "number": 27,
+    "title": "Table - Rental Ledger Entry",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\27.md",
+    "state": "closed"
+  },
+  "28": {
+    "number": 28,
+    "title": "Page - Rental Ledger Entries",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\28.md",
+    "state": "closed"
+  },
+  "29": {
+    "number": 29,
+    "title": "Codeunit - Rental Jnl.-Check Line",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\29.md",
+    "state": "closed"
+  },
+  "30": {
+    "number": 30,
+    "title": "Codeunit - Rental Jnl.-Post Line",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\30.md",
+    "state": "closed"
+  },
+  "31": {
+    "number": 31,
+    "title": "Codeunit - Rental Jnl.-Post Batch",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\31.md",
+    "state": "closed"
+  },
+  "32": {
+    "number": 32,
+    "title": "Codeunit - Rental Jnl.-Post",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\32.md",
+    "state": "closed"
+  },
+  "33": {
+    "number": 33,
+    "title": "Codeunit - Rental-Post",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\33.md",
+    "state": "closed"
+  },
+  "34": {
+    "number": 34,
+    "title": "Codeunit - Rental-Post (Yes/No)",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\34.md",
+    "state": "closed"
+  },
+  "35": {
+    "number": 35,
+    "title": "API Interface",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\35.md",
+    "state": "open"
+  },
+  "36": {
+    "number": 36,
+    "title": "Tabelite täiendused - SystemId",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\36.md",
+    "state": "open"
+  },
+  "37": {
+    "number": 37,
+    "title": "Page - RA Locations API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\37.md",
+    "state": "open"
+  },
+  "38": {
+    "number": 38,
+    "title": "Page - RA Classes API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\38.md",
+    "state": "open"
+  },
+  "39": {
+    "number": 39,
+    "title": "Page - Rental Assets API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\39.md",
+    "state": "open"
+  },
+  "40": {
+    "number": 40,
+    "title": "Page - Rental Asset Units API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\40.md",
+    "state": "open"
+  },
+  "41": {
+    "number": 41,
+    "title": "Page - Rental Orders API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\41.md",
+    "state": "open"
+  },
+  "42": {
+    "number": 42,
+    "title": "Query - Rental Ledger Entries API",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\42.md",
+    "state": "open"
+  },
+  "43": {
+    "number": 43,
+    "title": "Maps API Connector",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\43.md",
+    "state": "open"
+  },
+  "44": {
+    "number": 44,
+    "title": "Rental Setup täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\44.md",
+    "state": "open"
+  },
+  "45": {
+    "number": 45,
+    "title": "RA Location täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\45.md",
+    "state": "open"
+  },
+  "46": {
+    "number": 46,
+    "title": "Page - RA Location Card",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\46.md",
+    "state": "open"
+  },
+  "47": {
+    "number": 47,
+    "title": "Table - Maps Response Buffer",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\47.md",
+    "state": "open"
+  },
+  "48": {
+    "number": 48,
+    "title": "Page - Maps Responses",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\48.md",
+    "state": "open"
+  },
+  "49": {
+    "number": 49,
+    "title": "Funktsioon RequestCoordinates",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\49.md",
+    "state": "open"
+  },
+  "50": {
+    "number": 50,
+    "title": "Weather Forecast API Connector",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\50.md",
+    "state": "open"
+  },
+  "51": {
+    "number": 51,
+    "title": "Rental Setup täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\51.md",
+    "state": "open"
+  },
+  "52": {
+    "number": 52,
+    "title": "Table - RA Location Weather",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\52.md",
+    "state": "open"
+  },
+  "53": {
+    "number": 53,
+    "title": "Page - RA Location Weather",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\53.md",
+    "state": "open"
+  },
+  "54": {
+    "number": 54,
+    "title": "RA Location tabeli täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\54.md",
+    "state": "open"
+  },
+  "55": {
+    "number": 55,
+    "title": "RA Location Card täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\55.md",
+    "state": "open"
+  },
+  "56": {
+    "number": 56,
+    "title": "Report - Update RA Location Weather",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\56.md",
+    "state": "open"
+  },
+  "57": {
+    "number": 57,
+    "title": "Rental Forecast with Azure ML",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\57.md",
+    "state": "open"
+  },
+  "58": {
+    "number": 58,
+    "title": "Rental Setup täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\58.md",
+    "state": "open"
+  },
+  "59": {
+    "number": 59,
+    "title": "Table - Rental Forecast",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\59.md",
+    "state": "open"
+  },
+  "60": {
+    "number": 60,
+    "title": "Page - Rental Forecast",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\60.md",
+    "state": "open"
+  },
+  "61": {
+    "number": 61,
+    "title": "RA Location tabeli täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\61.md",
+    "state": "open"
+  },
+  "62": {
+    "number": 62,
+    "title": "RA Location Card täiendused",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\62.md",
+    "state": "open"
+  },
+  "63": {
+    "number": 63,
+    "title": "Report - Update Rental Forecast",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\63.md",
+    "state": "open"
+  },
+  "64": {
+    "number": 64,
+    "title": "Power BI Reports",
+    "type": "Feature",
+    "folder": "features",
+    "path": "Bodies\\features\\64.md",
+    "state": "open"
+  },
+  "65": {
+    "number": 65,
+    "title": "Power BI Desktop",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\65.md",
+    "state": "open"
+  },
+  "66": {
+    "number": 66,
+    "title": "Build the data model for Power BI",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\66.md",
+    "state": "open"
+  },
+  "67": {
+    "number": 67,
+    "title": "Add a date dimension",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\67.md",
+    "state": "open"
+  },
+  "68": {
+    "number": 68,
+    "title": "Introduction to DAX",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\68.md",
+    "state": "open"
+  },
+  "69": {
+    "number": 69,
+    "title": "Create a report",
+    "type": "Unknown",
+    "folder": "features",
+    "path": "Bodies\\features\\69.md",
+    "state": "open"
+  }
+}
